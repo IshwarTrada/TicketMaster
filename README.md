@@ -1,4 +1,4 @@
-# Tokenmaster
+# Event Ticket Booking using Blockchain
 
 ## Technology Stack & Tools
 
